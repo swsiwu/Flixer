@@ -62,10 +62,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 2ab5316e36c4c7de5e8ec9b27fc2101b24118a3f
 
 ## License
 
